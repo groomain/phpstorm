@@ -1,0 +1,37 @@
+<application>
+  <component name="TextMateSettings">
+    <option name="themesMapping">
+      <map>
+        <entry key="Eclectide Monokai" value="Mac Classic" />
+        <entry key="FnK" value="Mac Classic" />
+        <entry key="Hardcoded" value="Mac Classic" />
+        <entry key="Lovecraft" value="Mac Classic" />
+        <entry key="Luke's Theme" value="Mac Classic" />
+        <entry key="ManoO" value="Mac Classic" />
+        <entry key="Mashup_Theme" value="Mac Classic" />
+        <entry key="Mermaid" value="Mac Classic" />
+        <entry key="Monodarkai" value="Mac Classic" />
+        <entry key="Monokai-Sublime" value="Mac Classic" />
+        <entry key="Monokai_fb" value="Mac Classic" />
+        <entry key="Sublime 3" value="Mac Classic" />
+        <entry key="Taste The Rainbow" value="Mac Classic" />
+        <entry key="_@user_All hallow's eve" value="Mac Classic" />
+        <entry key="_@user_Blackboard" value="Mac Classic" />
+        <entry key="_@user_Cobalt" value="Mac Classic" />
+        <entry key="_@user_Darcula" value="Mac Classic" />
+        <entry key="_@user_Default" value="Mac Classic" />
+        <entry key="_@user_Material Theme - Darker" value="Mac Classic" />
+        <entry key="_@user_Material Theme - Default" value="Mac Classic" />
+        <entry key="_@user_Material Theme - Lighter" value="Mac Classic" />
+        <entry key="_@user_Monokai" value="Mac Classic" />
+        <entry key="_@user_Railscasts" value="Mac Classic" />
+        <entry key="_@user_Solarized Dark" value="Mac Classic" />
+        <entry key="_@user_Solarized Light" value="Mac Classic" />
+        <entry key="_@user_Twilight" value="Mac Classic" />
+        <entry key="_@user_VibrantInk" value="Mac Classic" />
+        <entry key="_@user_WarmNeon" value="Mac Classic" />
+        <entry key="another Monokay like sublime :)" value="Mac Classic" />
+      </map>
+    </option>
+  </component>
+</application>

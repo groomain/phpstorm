@@ -1,0 +1,40 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.php" />
+    <recentFileMasks>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.twig</mask>
+      <mask>*.twi</mask>
+      <mask>*.tw</mask>
+      <mask>*.t</mask>
+      <mask>*.p</mask>
+      <mask>*.html/t</mask>
+      <mask>*.html/</mask>
+      <mask>*.html.w</mask>
+      <mask>*.html.tw</mask>
+      <mask>*yml</mask>
+      <mask>*ym</mask>
+      <mask>*y</mask>
+      <mask>*</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.twi</mask>
+      <mask>*.html.twig</mask>
+      <mask>*.html.</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
+  </component>
+</application>

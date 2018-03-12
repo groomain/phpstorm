@@ -1,0 +1,7 @@
+<templateSet group="Jquery">
+  <template name="jqueryplugin" value="(function($) {&#10;&#10;    $.secondaryBox = function(element, options) {&#10;&#10;        var plugin = this;&#10;&#10;        plugin.settings = {&#10;            submit: true&#10;        };&#10;&#10;        var $element = $(element),&#10;        ;&#10;&#10;        plugin.init = function() {&#10;            plugin.settings = $.extend({}, plugin.settings, options);&#10;&#10;            var s = plugin.settings;&#10;&#10;&#10;        };&#10;&#10;&#10;&#10;        plugin.init();&#10;&#10;        // return{&#10;        //     create:createMember,&#10;        //     get:getMemberDetails&#10;        // }&#10;    };&#10;&#10;    $.fn.secondaryBox = function(options) {&#10;        return this.each(function() {&#10;            if (undefined === $(this).data('secondaryBox')) {&#10;                var plugin = new $.secondaryBox(this, options);&#10;                $(this).data('secondaryBox', plugin);&#10;            }&#10;        });&#10;    };&#10;&#10;    /**&#10;     * DATA-* ATTRIBUTES API&#10;     *&#10;     * Use data-* attributes to enable/configure your sheeper components.&#10;     */&#10;    $(document).ready(function() {&#10;        $('[data-init=&quot;secondary-box&quot;]').secondaryBox({});&#10;    });&#10;&#10;})(jQuery);" description="" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="JS_STATEMENT" value="true" />
+    </context>
+  </template>
+</templateSet>

@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="HeadController" type="PHP" />
+      <mapping pattern="ArticleRule" type="PHP" />
+      <mapping ext="ph" type="PHP" />
+      <mapping ext="php_cs" type="PHP" />
+      <mapping ext="csv" type="TSLint" />
+      <mapping pattern="Box" type="Twig" />
+      <mapping ext="tiwg" type="Twig" />
+    </extensionMap>
+  </component>
+</application>
