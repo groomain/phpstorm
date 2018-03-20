@@ -5,15 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html.twig" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.ks</mask>
       <mask>*.k</mask>
       <mask>*.js</mask>
@@ -30,13 +23,20 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.html.</mask>
       <mask>*.html.t</mask>
       <mask>*.html.twi</mask>
+      <mask>*html.twig</mask>
       <mask>*.html.twig</mask>
+      <mask>*.</mask>
+      <mask>*.lrdd</mask>
+      <mask>*.lrd</mask>
+      <mask>*.lr</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
