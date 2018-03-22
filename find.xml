@@ -3,11 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.twi</mask>
       <mask>*.tw</mask>
-      <mask>*.t</mask>
       <mask>*.hp</mask>
       <mask>*.ph</mask>
       <mask>*.h</mask>
@@ -17,7 +15,6 @@
       <mask>*.html.twi</mask>
       <mask>*html.twig</mask>
       <mask>*.html.twig</mask>
-      <mask>*.</mask>
       <mask>*.lrdd</mask>
       <mask>*.lrd</mask>
       <mask>*.lr</mask>
@@ -35,6 +32,9 @@
       <mask>finddetails</mask>
       <mask>¨</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.t</mask>
+      <mask>*.twig</mask>
     </recentFileMasks>
   </component>
 </application>
