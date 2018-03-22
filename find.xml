@@ -2,25 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.ks</mask>
-      <mask>*.k</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.gw</mask>
-      <mask>*.g</mask>
-      <mask>*.r</mask>
-      <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
       <mask>*.hp</mask>
       <mask>*.ph</mask>
-      <mask>*</mask>
       <mask>*.h</mask>
       <mask>*.html</mask>
       <mask>*.html.</mask>
@@ -37,6 +26,15 @@
       <mask>*.less</mask>
       <mask>*.p</mask>
       <mask>*.php</mask>
+      <mask>fin</mask>
+      <mask>find</mask>
+      <mask>findd</mask>
+      <mask>findde</mask>
+      <mask>finddet</mask>
+      <mask>finddetail</mask>
+      <mask>finddetails</mask>
+      <mask>¨</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
