@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.less</mask>
       <mask>fin</mask>
@@ -34,6 +33,7 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
+      <mask>*?</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
