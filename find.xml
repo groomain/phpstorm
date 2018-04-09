@@ -3,12 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.le</mask>
-      <mask>*.less</mask>
-      <mask>fin</mask>
-      <mask>find</mask>
       <mask>findd</mask>
       <mask>findde</mask>
       <mask>finddet</mask>
@@ -19,7 +15,6 @@
       <mask>*p</mask>
       <mask>*/php</mask>
       <mask>*php</mask>
-      <mask>*.p</mask>
       <mask>*.yml</mask>
       <mask>*.ym</mask>
       <mask>*.y</mask>
@@ -29,12 +24,17 @@
       <mask>*.h</mask>
       <mask>*?</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.twi</mask>
       <mask>*.twig</mask>
-      <mask>*.ph</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
