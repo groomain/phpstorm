@@ -3,12 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>finddetail</mask>
       <mask>finddetails</mask>
       <mask>¨</mask>
-      <mask>*.tw</mask>
       <mask>*p</mask>
       <mask>*/php</mask>
       <mask>*php</mask>
@@ -20,10 +19,7 @@
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*?</mask>
-      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*.twi</mask>
       <mask>*.l</mask>
       <mask>*.le</mask>
       <mask>*.les</mask>
@@ -32,9 +28,13 @@
       <mask>*.j</mask>
       <mask>*/</mask>
       <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.t</mask>
       <mask>*.twig</mask>
+      <mask>*.twi</mask>
+      <mask>*.tw</mask>
+      <mask>*.t</mask>
+      <mask>*.</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
