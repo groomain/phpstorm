@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*." />
+    <option name="FILE_MASK" value="*" />
     <recentFileMasks>
       <mask>*php</mask>
       <mask>*.yml</mask>
@@ -29,7 +29,6 @@
       <mask>*/</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
@@ -39,6 +38,7 @@
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.</mask>
+      <mask>*</mask>
     </recentFileMasks>
   </component>
 </application>
