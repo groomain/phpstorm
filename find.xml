@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <recentFileMasks>
       <mask>*/j</mask>
       <mask>*/ks</mask>
@@ -26,17 +26,17 @@
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.html.twig</mask>
       <mask>*.html.twi</mask>
       <mask>*.html.tw</mask>
-      <mask>*.html.t</mask>
-      <mask>*.html.</mask>
-      <mask>*.html</mask>
       <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
