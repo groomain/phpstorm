@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
-      <mask>*/j</mask>
-      <mask>*/ks</mask>
       <mask>*/k</mask>
       <mask>*/</mask>
       <mask>*.j</mask>
@@ -37,6 +35,8 @@
       <mask>*.h</mask>
       <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
