@@ -5,10 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*/k</mask>
-      <mask>*/</mask>
       <mask>*.j</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
@@ -19,10 +17,6 @@
       <mask>*.html.tx</mask>
       <mask>*.m</mask>
       <mask>*.me</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*</mask>
       <mask>*.html.twig</mask>
       <mask>*.html.twi</mask>
@@ -33,10 +27,16 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
-      <mask>*.p</mask>
+      <mask>*.php-</mask>
       <mask>*.php</mask>
+      <mask>*.ph</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
