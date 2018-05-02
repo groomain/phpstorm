@@ -5,6 +5,24 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
+      <mask>*.php-</mask>
+      <mask>*.less</mask>
+      <mask>*.les</mask>
+      <mask>*.le</mask>
+      <mask>*.l</mask>
+      <mask>*.pgp</mask>
+      <mask>*.pg</mask>
+      <mask>*.js</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
+      <mask>*t</mask>
+      <mask>*.twig</mask>
+      <mask>*.twi</mask>
+      <mask>*.tw</mask>
+      <mask>*.t</mask>
+      <mask>*.p</mask>
+      <mask>*</mask>
       <mask>*.html.twig</mask>
       <mask>*.html.twi</mask>
       <mask>*.html.tw</mask>
@@ -14,24 +32,6 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.php-</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
-      <mask>*.pgp</mask>
-      <mask>*.pg</mask>
-      <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*t</mask>
-      <mask>*</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*.ph</mask>
       <mask>*.php</mask>
