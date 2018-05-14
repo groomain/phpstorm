@@ -2,22 +2,15 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.html.twig" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
-      <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*t</mask>
-      <mask>*.html.tw</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
       <mask>*e</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
@@ -28,13 +21,22 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.html-</mask>
-      <mask>*.html</mask>
-      <mask>*.html.</mask>
-      <mask>*.html.t</mask>
-      <mask>*.html.twi</mask>
       <mask>*.html.twig</mask>
+      <mask>*.html.twi</mask>
+      <mask>*.html.tw</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.</mask>
+      <mask>*.html</mask>
+      <mask>*.htm</mask>
+      <mask>*.ht</mask>
+      <mask>*.h</mask>
+      <mask>*.</mask>
+      <mask>*.e</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
