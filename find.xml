@@ -14,9 +14,17 @@
       <mask>*.t</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.ph</mask>
-      <mask>*</mask>
       <mask>*.html-</mask>
+      <mask>*.e</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
+      <mask>*.àyà</mask>
+      <mask>*.ày</mask>
+      <mask>*.à</mask>
+      <mask>*.p</mask>
+      <mask>*</mask>
       <mask>*.html.twig</mask>
       <mask>*.html.twi</mask>
       <mask>*.html.tw</mask>
@@ -26,16 +34,8 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.e</mask>
-      <mask>*.l</mask>
-      <mask>*.le</mask>
-      <mask>*.les</mask>
-      <mask>*.less</mask>
-      <mask>*.àyà</mask>
-      <mask>*.ày</mask>
-      <mask>*.à</mask>
       <mask>*.</mask>
-      <mask>*.p</mask>
+      <mask>*.ph</mask>
       <mask>*.php</mask>
     </recentFileMasks>
   </component>
