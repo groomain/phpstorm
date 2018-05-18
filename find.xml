@@ -5,7 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.twig" />
     <recentFileMasks>
-      <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*twi</mask>
@@ -22,18 +21,19 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.e</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*</mask>
+      <mask>*.tw</mask>
+      <mask>*.jq</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
+      <mask>*.twi</mask>
       <mask>*.twig</mask>
     </recentFileMasks>
   </component>
