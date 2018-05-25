@@ -1,7 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="SubscriptionClientType" type="PHP" />
       <mapping pattern="HeadController" type="PHP" />
+      <mapping pattern="SubscriptionClientType.php" type="PHP" />
       <mapping pattern="ArticleRule" type="PHP" />
       <mapping ext="ph" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
