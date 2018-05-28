@@ -5,7 +5,7 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.les</mask>
       <mask>*.le</mask>
@@ -14,7 +14,6 @@
       <mask>*.ymlppp</mask>
       <mask>*.ymlpp</mask>
       <mask>*.ymlp</mask>
-      <mask>*.ph</mask>
       <mask>*;js</mask>
       <mask>*;j</mask>
       <mask>*;</mask>
@@ -22,7 +21,6 @@
       <mask>*.p</mask>
       <mask>*.pgp</mask>
       <mask>*.pg</mask>
-      <mask>*.php</mask>
       <mask>*..t</mask>
       <mask>*..</mask>
       <mask>*.yml</mask>
@@ -30,13 +28,15 @@
       <mask>*.y</mask>
       <mask>*/</mask>
       <mask>*</mask>
-      <mask>*.j</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
