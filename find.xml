@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.less" />
+    <option name="FILE_MASK" value="*.php" />
     <recentFileMasks>
       <mask>*.ymlppp</mask>
       <mask>*.ymlpp</mask>
@@ -20,9 +20,6 @@
       <mask>*.ym</mask>
       <mask>*.y</mask>
       <mask>*/</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.twig</mask>
@@ -35,6 +32,9 @@
       <mask>*.</mask>
       <mask>*.le</mask>
       <mask>*.less</mask>
+      <mask>*.p</mask>
+      <mask>*.ph</mask>
+      <mask>*.php</mask>
     </recentFileMasks>
   </component>
 </application>
