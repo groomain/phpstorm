@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.twig" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*/</mask>
       <mask>*les</mask>
@@ -27,14 +27,14 @@
       <mask>*.less.js</mask>
       <mask>*.less.j</mask>
       <mask>*.less.</mask>
-      <mask>*.less</mask>
-      <mask>*.les</mask>
-      <mask>*.le</mask>
-      <mask>*.l</mask>
       <mask>*.</mask>
       <mask>*.t</mask>
       <mask>*.tw</mask>
       <mask>*.twig</mask>
+      <mask>*.l</mask>
+      <mask>*.le</mask>
+      <mask>*.les</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
