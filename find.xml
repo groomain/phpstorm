@@ -5,35 +5,35 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*/</mask>
-      <mask>*les</mask>
-      <mask>*le</mask>
-      <mask>*l</mask>
-      <mask>*.ls</mask>
-      <mask>*.lesss</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>.</mask>
-      <mask>*.t&lt;ig</mask>
-      <mask>*.t&lt;i</mask>
-      <mask>*.t&lt;</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*t</mask>
-      <mask>*.twi</mask>
-      <mask>*.lq</mask>
-      <mask>*.less.js</mask>
-      <mask>*.less.j</mask>
-      <mask>*.less.</mask>
-      <mask>*.t</mask>
-      <mask>*.tw</mask>
       <mask>*.twig</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
       <mask>*.le</mask>
       <mask>*.l</mask>
       <mask>*.</mask>
+      <mask>/^(?!locales\/US).*/m</mask>
+      <mask>/^(?!locales\/U).*/m</mask>
+      <mask>/^(?!locales\/).*/m</mask>
+      <mask>/^(?!locales\).*/m</mask>
+      <mask>/^(?!locales).*/m</mask>
+      <mask>/^(?!locale).*/m</mask>
+      <mask>/^(?!local).*/m</mask>
+      <mask>/^(?!loca).*/m</mask>
+      <mask>/^(?!loc).*/m</mask>
+      <mask>/^(?!lo).*/m</mask>
+      <mask>/^(?!l).*/m</mask>
+      <mask>/^(?!).*/m</mask>
+      <mask>/^(?!li).*/m</mask>
+      <mask>/^(?!lib).*/m</mask>
+      <mask>/(?!lib).*/m</mask>
+      <mask>(?!lib).*/m</mask>
+      <mask>(?!lib).*/</mask>
+      <mask>(?!lib).*</mask>
+      <mask>?!lib./*</mask>
+      <mask>?!lib*</mask>
+      <mask>?!lib.*</mask>
+      <mask>(?!lib.*</mask>
+      <mask>(?!li.*</mask>
       <mask>*</mask>
     </recentFileMasks>
   </component>
