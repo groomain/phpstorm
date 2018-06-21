@@ -2,15 +2,14 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.less" />
     <recentFileMasks>
       <mask>*.twig</mask>
-      <mask>*.less</mask>
       <mask>*.les</mask>
-      <mask>*.le</mask>
       <mask>*.l</mask>
-      <mask>*.</mask>
       <mask>/^(?!locales\/US).*/m</mask>
       <mask>/^(?!locales\/U).*/m</mask>
       <mask>/^(?!locales\/).*/m</mask>
@@ -35,6 +34,9 @@
       <mask>(?!lib.*</mask>
       <mask>(?!li.*</mask>
       <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.le</mask>
+      <mask>*.less</mask>
     </recentFileMasks>
   </component>
 </application>
