@@ -3,20 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.html.twig" />
     <recentFileMasks>
-      <mask>/^(?!).*/m</mask>
-      <mask>/^(?!li).*/m</mask>
-      <mask>/^(?!lib).*/m</mask>
-      <mask>/(?!lib).*/m</mask>
-      <mask>(?!lib).*/m</mask>
-      <mask>(?!lib).*/</mask>
-      <mask>(?!lib).*</mask>
-      <mask>?!lib./*</mask>
-      <mask>?!lib*</mask>
-      <mask>?!lib.*</mask>
-      <mask>(?!lib.*</mask>
-      <mask>(?!li.*</mask>
       <mask>*.mes</mask>
       <mask>*.me</mask>
       <mask>*.m</mask>
@@ -32,9 +20,21 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
+      <mask>*.htl</mask>
+      <mask>*.htmlk</mask>
+      <mask>*.htmk</mask>
+      <mask>*.htm</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
+      <mask>*.h</mask>
+      <mask>*.ht</mask>
+      <mask>*.html</mask>
+      <mask>*.html.</mask>
+      <mask>*.html.t</mask>
+      <mask>*.html.twi</mask>
+      <mask>*.html.twig</mask>
     </recentFileMasks>
   </component>
 </application>
