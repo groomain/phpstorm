@@ -5,9 +5,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*" />
     <recentFileMasks>
-      <mask>*.lme</mask>
-      <mask>*.lm</mask>
-      <mask>*.es</mask>
       <mask>*.e</mask>
       <mask>*.less</mask>
       <mask>*.les</mask>
@@ -33,6 +30,9 @@
       <mask>*.php</mask>
       <mask>*.ph</mask>
       <mask>*.p</mask>
+      <mask>*.yml</mask>
+      <mask>*.ym</mask>
+      <mask>*.y</mask>
       <mask>*.</mask>
       <mask>*</mask>
     </recentFileMasks>
