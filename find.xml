@@ -5,7 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.php" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
       <mask>*.php =</mask>
       <mask>*.php =</mask>
@@ -17,26 +17,26 @@
       <mask>*/js</mask>
       <mask>*js</mask>
       <mask>*/</mask>
-      <mask>*</mask>
       <mask>*.scss</mask>
       <mask>*.scs</mask>
       <mask>*.sc</mask>
-      <mask>*.s</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
       <mask>*.hp</mask>
       <mask>*.h</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
-      <mask>*.</mask>
       <mask>*.pgp</mask>
       <mask>*.pg</mask>
-      <mask>*.p</mask>
+      <mask>*.php</mask>
+      <mask>*.php</mask>
       <mask>*.ph</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
+      <mask>*.p</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
