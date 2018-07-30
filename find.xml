@@ -5,12 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.scss" />
     <recentFileMasks>
-      <mask>*.yml</mask>
-      <mask>*.ym</mask>
-      <mask>*.y</mask>
-      <mask>*/js</mask>
       <mask>*js</mask>
       <mask>*/</mask>
       <mask>*.hp</mask>
@@ -27,16 +23,20 @@
       <mask>*.ph</mask>
       <mask>*.p</mask>
       <mask>*s</mask>
-      <mask>*.scss</mask>
-      <mask>*.scs</mask>
-      <mask>*.sc</mask>
-      <mask>*.s</mask>
       <mask>*.twig</mask>
       <mask>*.twi</mask>
       <mask>*.tw</mask>
       <mask>*.t</mask>
       <mask>*.</mask>
       <mask>*</mask>
+      <mask>*.Scss</mask>
+      <mask>*.Scs</mask>
+      <mask>*.Sc</mask>
+      <mask>*.S</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
