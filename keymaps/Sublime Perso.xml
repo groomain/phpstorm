@@ -279,7 +279,6 @@
   <action id="SendEOF" />
   <action id="ShowBookmarks" />
   <action id="ShowReformatFileDialog">
-    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
     <keyboard-shortcut first-keystroke="shift meta alt l" />
   </action>
   <action id="SplitVertically">
@@ -317,6 +316,9 @@
   </action>
   <action id="UsageView.Remove" />
   <action id="ViewSource" />
+  <action id="com.eslint">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
   <action id="context.load" />
   <action id="hg4idea.push" />
 </keymap>

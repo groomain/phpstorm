@@ -1,40 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Project 'quitoque'" />
+    <option name="defaultScopeName" value="Project 'quitoque'" />
+    <option name="SEARCH_SCOPE" value="Project 'quitoque'" />
     <option name="FILE_MASK" value="*" />
-    <recentFileMasks>
-      <mask>*js</mask>
-      <mask>*/</mask>
-      <mask>*.hp</mask>
-      <mask>*.h</mask>
-      <mask>*.pgp</mask>
-      <mask>*.pg</mask>
-      <mask>*.ks</mask>
-      <mask>*.k</mask>
-      <mask>*k</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.php</mask>
-      <mask>*.php</mask>
-      <mask>*.ph</mask>
-      <mask>*.p</mask>
-      <mask>*s</mask>
-      <mask>*.twig</mask>
-      <mask>*.twi</mask>
-      <mask>*.tw</mask>
-      <mask>*.t</mask>
-      <mask>*.Scss</mask>
-      <mask>*.Scs</mask>
-      <mask>*.Sc</mask>
-      <mask>*.S</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*.</mask>
-      <mask>*</mask>
-    </recentFileMasks>
   </component>
 </application>
