@@ -237,6 +237,9 @@
   </action>
   <action id="InsertLiveTemplate" />
   <action id="IpnbRunCellInplaceAction" />
+  <action id="Javascript.Linters.EsLint.Fix">
+    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
+  </action>
   <action id="JumpToLastWindow" />
   <action id="MarkdownNavigator.InsertLink" />
   <action id="MarkdownNavigator.ToggleCodeSpan" />
@@ -316,9 +319,6 @@
   </action>
   <action id="UsageView.Remove" />
   <action id="ViewSource" />
-  <action id="com.eslint">
-    <keyboard-shortcut first-keystroke="shift ctrl alt l" />
-  </action>
   <action id="context.load" />
   <action id="hg4idea.push" />
 </keymap>
