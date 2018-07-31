@@ -1,11 +1,13 @@
 <application>
   <component name="MessDetector">
+    <phpmd_settings_migrated />
     <phpmd_settings>
       <MessDetectorConfiguration tool_path="$USER_HOME$/workspace/quitoque/vendor/bin/phpmd" />
       <phpmd_by_interpreter interpreter_id="ef5b7c52-4886-466e-87aa-c3d86dd76f8e" tool_path="$USER_HOME$/workspace/quitoque/vendor/bin/phpmd" />
     </phpmd_settings>
   </component>
   <component name="PhpCodeSniffer">
+    <phpcs_settings_migrated />
     <phpcs_settings>
       <phpcs_by_interpreter interpreter_id="ef5b7c52-4886-466e-87aa-c3d86dd76f8e" standards="MySource;PEAR;PHPCS;PSR1;PSR2;Squiz;Zend" tool_path="/usr/bin/phpcs" />
     </phpcs_settings>
