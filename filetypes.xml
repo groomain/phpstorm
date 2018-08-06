@@ -1,18 +1,18 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".prettierrc" type="JSON" />
+      <mapping pattern="SubscriptionClientType.php" type="PHP" />
       <mapping pattern="ArticleRule" type="PHP" />
       <mapping pattern="SubscriptionClientType" type="PHP" />
       <mapping pattern="HeadController" type="PHP" />
-      <mapping pattern="SubscriptionClientType.php" type="PHP" />
-      <mapping ext="ph" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
+      <mapping ext="ph" type="PHP" />
       <mapping pattern="RecipeArticle" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
-      <mapping ext="csv" type="TSLint" />
       <mapping pattern="Box" type="Twig" />
       <mapping ext="tiwg" type="Twig" />
+      <mapping pattern=".env.development" type="YAML" />
+      <mapping ext="csv" type="TSLint" />
     </extensionMap>
   </component>
 </application>
