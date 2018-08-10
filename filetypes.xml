@@ -8,6 +8,7 @@
       <mapping ext="php_cs" type="PHP" />
       <mapping ext="ph" type="PHP" />
       <mapping pattern="RecipeArticle" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
       <mapping pattern="Box" type="Twig" />
       <mapping ext="tiwg" type="Twig" />
