@@ -1,0 +1,11 @@
+<application>
+  <component name="ActiveTabHighlighterConfiguration">
+    <option name="background">
+      <PersistentColor>
+        <option name="red" value="170" />
+        <option name="green" value="171" />
+        <option name="blue" value="46" />
+      </PersistentColor>
+    </option>
+  </component>
+</application>
