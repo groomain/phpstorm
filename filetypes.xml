@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="SubscriptionClientType.php" type="PHP" />
       <mapping pattern="ArticleRule" type="PHP" />
+      <mapping pattern="ArticleController" type="PHP" />
       <mapping pattern="SubscriptionClientType" type="PHP" />
       <mapping pattern="HeadController" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
