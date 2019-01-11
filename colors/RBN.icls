@@ -4,7 +4,7 @@
     <property name="created">2018-05-31T09:53:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2019-01-11T14:31:29</property>
+    <property name="modified">2019-01-11T14:47:54</property>
     <property name="originalScheme">FnK</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -71211,7 +71211,7 @@
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR0">
       <value>
-        <option name="FOREGROUND" value="1ec6d2" />
+        <option name="FOREGROUND" value="f021ba" />
       </value>
     </option>
     <option name="SQUIGGLY_BRACKETS_RAINBOW_COLOR1">
