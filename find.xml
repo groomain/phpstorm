@@ -23,6 +23,7 @@
     <mask>*.twig</mask>
     <mask>*.js</mask>
     <mask>*.jsx</mask>
+    <mask>*.PHP</mask>
     <mask>*</mask>
   </component>
 </application>
