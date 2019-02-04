@@ -5,7 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.jsx" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,10 +24,10 @@
     <mask>*.</mask>
     <mask>*.php</mask>
     <mask>*.twig</mask>
-    <mask>*.jsx</mask>
     <mask>*.js</mask>
     <mask>*.scss</mask>
     <mask>*.yml</mask>
     <mask>*</mask>
+    <mask>*.jsx</mask>
   </component>
 </application>
