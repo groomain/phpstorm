@@ -1,12 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".sentryclirc" type="Ini" />
       <mapping pattern="Breakpoints" type="JSX Harmony" />
       <mapping pattern="SubscriptionClientType.php" type="PHP" />
       <mapping pattern="ArticleRule" type="PHP" />
+      <mapping pattern="ArticleController" type="PHP" />
       <mapping pattern="SubscriptionClientType" type="PHP" />
       <mapping pattern="HeadController" type="PHP" />
-      <mapping pattern="ArticleController" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
       <mapping ext="ph" type="PHP" />
       <mapping pattern="RecipeArticle" type="PLAIN_TEXT" />
