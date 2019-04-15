@@ -3,11 +3,9 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
@@ -24,7 +22,6 @@
     <mask>*.Scss</mask>
     <mask>*.</mask>
     <mask>*.yml</mask>
-    <mask>*.php</mask>
     <mask>*.PHP</mask>
     <mask>*.scss</mask>
     <mask>*scss</mask>
@@ -32,5 +29,6 @@
     <mask>*.js</mask>
     <mask>*.twig</mask>
     <mask>*</mask>
+    <mask>*.php</mask>
   </component>
 </application>
