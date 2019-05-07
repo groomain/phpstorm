@@ -23,10 +23,10 @@
     <mask>*.Scss</mask>
     <mask>*.php</mask>
     <mask>*.jsx</mask>
-    <mask>*.scss</mask>
     <mask>*.html.twig</mask>
     <mask>*.twig</mask>
     <mask>*js</mask>
+    <mask>*.scss</mask>
     <mask>*</mask>
   </component>
 </application>
