@@ -19,14 +19,14 @@
     <mask>*.yml</mask>
     <mask>*.PHP</mask>
     <mask>*scss</mask>
-    <mask>*.js</mask>
     <mask>*.Scss</mask>
     <mask>*.jsx</mask>
-    <mask>*.twig</mask>
     <mask>*js</mask>
     <mask>*.php</mask>
     <mask>*.html.twig</mask>
     <mask>*.scss</mask>
+    <mask>*.js</mask>
+    <mask>*.twig</mask>
     <mask>*</mask>
   </component>
 </application>
