@@ -4,7 +4,7 @@
     <property name="created">2018-05-31T09:53:45</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2017.2.4.0.0</property>
-    <property name="modified">2019-01-17T10:21:48</property>
+    <property name="modified">2019-06-21T15:32:06</property>
     <property name="originalScheme">FnK</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -364,6 +364,12 @@
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_COLOR" value="f72671" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="GRAPHQL_FIELD_NAME">
+      <value>
+        <option name="FOREGROUND" value="da4eff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="HTML_ATTRIBUTE_NAME">
