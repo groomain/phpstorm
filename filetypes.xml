@@ -5,9 +5,9 @@
       <mapping pattern="Breakpoints" type="JSX Harmony" />
       <mapping pattern="SubscriptionClientType.php" type="PHP" />
       <mapping pattern="ArticleRule" type="PHP" />
+      <mapping pattern="ArticleController" type="PHP" />
       <mapping pattern="SubscriptionClientType" type="PHP" />
       <mapping pattern="HeadController" type="PHP" />
-      <mapping pattern="ArticleController" type="PHP" />
       <mapping ext="php_cs" type="PHP" />
       <mapping ext="ph" type="PHP" />
       <mapping pattern="cooked-box" type="PLAIN_TEXT" />
@@ -19,6 +19,7 @@
       <mapping ext="tiwg" type="Twig" />
       <mapping pattern=".env.development" type="YAML" />
       <mapping pattern=".env" type="YAML" />
+      <mapping pattern=".env.dev" type="YAML" />
       <mapping ext="csv" type="TSLint" />
     </extensionMap>
   </component>
