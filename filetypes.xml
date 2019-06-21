@@ -19,6 +19,7 @@
       <mapping ext="tiwg" type="Twig" />
       <mapping pattern=".env.development" type="YAML" />
       <mapping pattern=".env" type="YAML" />
+      <mapping pattern=".env.exemple" type="YAML" />
       <mapping pattern=".env.dev" type="YAML" />
       <mapping ext="csv" type="TSLint" />
     </extensionMap>
