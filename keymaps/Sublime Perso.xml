@@ -240,6 +240,9 @@
   <action id="Javascript.Linters.EsLint.Fix">
     <keyboard-shortcut first-keystroke="shift ctrl alt l" />
   </action>
+  <action id="JumpToColorsAndFonts">
+    <keyboard-shortcut first-keystroke="shift ctrl meta alt c" />
+  </action>
   <action id="JumpToLastWindow" />
   <action id="MarkdownNavigator.InsertLink" />
   <action id="MarkdownNavigator.ToggleCodeSpan" />
