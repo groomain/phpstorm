@@ -12,11 +12,6 @@
           <option name="uniqueTypeCount" value="1" />
         </Settings>
       </TypeScript.ts.chain.hints>
-      <TypeScript.ts.type.hints>
-        <Settings>
-          <option name="showForFunctions" value="true" />
-        </Settings>
-      </TypeScript.ts.type.hints>
     </settingsMapElement>
   </component>
 </application>
