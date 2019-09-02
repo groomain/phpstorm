@@ -16,8 +16,8 @@
       <mapping pattern="RecipeArticle" type="PLAIN_TEXT" />
       <mapping pattern="types" type="PLAIN_TEXT" />
       <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping pattern="graphql" type="PLAIN_TEXT" />
+      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
       <mapping ext="les" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
