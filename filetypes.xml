@@ -3,39 +3,7 @@
     <extensionMap>
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern=".sentryclirc" type="Ini" />
-      <mapping pattern="Breakpoints" type="JSX Harmony" />
-      <mapping pattern="ArticleController" type="PHP" />
-      <mapping pattern="ArticleRule" type="PHP" />
-      <mapping pattern="SubscriptionClientType.php" type="PHP" />
-      <mapping pattern="HeadController" type="PHP" />
-      <mapping pattern="SubscriptionClientType" type="PHP" />
-      <mapping ext="php_cs" type="PHP" />
-      <mapping ext="ph" type="PHP" />
-      <mapping pattern="cooked-box" type="PLAIN_TEXT" />
-      <mapping pattern="RecipeArticle" type="PLAIN_TEXT" />
-      <mapping pattern="types" type="PLAIN_TEXT" />
-      <mapping pattern=".browserlistrc" type="PLAIN_TEXT" />
-      <mapping pattern="graphql" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping ext="les" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="Box" type="Twig" />
-      <mapping ext="tiwg" type="Twig" />
-      <mapping pattern=".env.development" type="YAML" />
-      <mapping pattern=".env.example" type="YAML" />
-      <mapping pattern=".env.exemple" type="YAML" />
-      <mapping pattern=".env" type="YAML" />
-      <mapping pattern=".env.dev" type="YAML" />
-      <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="dockerfile" approved="true" type="textmate" />
-      <removed_mapping ext="makefile" approved="true" type="textmate" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="snakefile" approved="true" type="textmate" />
-      <mapping ext="csv" type="TSLint" />
+      <mapping pattern=".env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
