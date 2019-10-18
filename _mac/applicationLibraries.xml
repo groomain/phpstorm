@@ -4,10 +4,14 @@
       <properties>
         <sourceFilesUrls>
           <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-live.adyen.com_checkoutshopper_sdk_3.2.0_adyen.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-test.adyen.com_checkoutshopper_sdk_3.1.0_adyen.js" />
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-test.adyen.com_checkoutshopper_sdk_3.2.0_adyen.js" />
         </sourceFilesUrls>
       </properties>
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-live.adyen.com_checkoutshopper_sdk_3.2.0_adyen.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-test.adyen.com_checkoutshopper_sdk_3.1.0_adyen.js" />
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_checkoutshopper-test.adyen.com_checkoutshopper_sdk_3.2.0_adyen.js" />
       </CLASSES>
       <SOURCES />
     </library>
